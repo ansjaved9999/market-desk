@@ -1,0 +1,15 @@
+{
+  "id": "/",
+  "name": "Market Desk",
+  "short_name": "Market Desk",
+  "description": "Indices, futures, shares, metals and currency",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0b1019",
+  "theme_color": "#0b1019",
+  "icons": [
+    {"src":"/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
