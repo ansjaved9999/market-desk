@@ -1,0 +1,13 @@
+{
+  "name": "market-desk-iphone",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Market Desk mobile web app",
+  "engines": {
+    "node": "24.x"
+  },
+  "scripts": {
+    "start": "node server.cjs",
+    "test": "node --test tests/*.test.cjs"
+  }
+}

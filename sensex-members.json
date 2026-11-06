@@ -1,0 +1,126 @@
+{
+  "source": "https://en.wikipedia.org/wiki/BSE_SENSEX",
+  "verified": "2026-11-05",
+  "data": [
+    {
+      "name": "Adani Ports & SEZ",
+      "ticker": "ADANIPORTS.BO"
+    },
+    {
+      "name": "Asian Paints",
+      "ticker": "ASIANPAINT.BO"
+    },
+    {
+      "name": "Axis Bank",
+      "ticker": "AXISBANK.BO"
+    },
+    {
+      "name": "Bajaj Finance",
+      "ticker": "BAJFINANCE.BO"
+    },
+    {
+      "name": "Bajaj Finserv",
+      "ticker": "BAJAJFINSV.BO"
+    },
+    {
+      "name": "Bharat Electronics",
+      "ticker": "BEL.BO"
+    },
+    {
+      "name": "Bharti Airtel",
+      "ticker": "BHARTIARTL.BO"
+    },
+    {
+      "name": "Eternal",
+      "ticker": "ETERNAL.BO"
+    },
+    {
+      "name": "HCLTech",
+      "ticker": "HCLTECH.BO"
+    },
+    {
+      "name": "HDFC Bank",
+      "ticker": "HDFCBANK.BO"
+    },
+    {
+      "name": "Hindustan Unilever",
+      "ticker": "HINDUNILVR.BO"
+    },
+    {
+      "name": "ICICI Bank",
+      "ticker": "ICICIBANK.BO"
+    },
+    {
+      "name": "IndiGo",
+      "ticker": "INDIGO.BO"
+    },
+    {
+      "name": "Infosys",
+      "ticker": "INFY.BO"
+    },
+    {
+      "name": "ITC",
+      "ticker": "ITC.BO"
+    },
+    {
+      "name": "Kotak Mahindra Bank",
+      "ticker": "KOTAKBANK.BO"
+    },
+    {
+      "name": "Larsen & Toubro",
+      "ticker": "LT.BO"
+    },
+    {
+      "name": "Mahindra & Mahindra",
+      "ticker": "M&M.BO"
+    },
+    {
+      "name": "Maruti Suzuki",
+      "ticker": "MARUTI.BO"
+    },
+    {
+      "name": "NTPC",
+      "ticker": "NTPC.BO"
+    },
+    {
+      "name": "Power Grid",
+      "ticker": "POWERGRID.BO"
+    },
+    {
+      "name": "Reliance Industries",
+      "ticker": "RELIANCE.BO"
+    },
+    {
+      "name": "State Bank of India",
+      "ticker": "SBIN.BO"
+    },
+    {
+      "name": "Sun Pharma",
+      "ticker": "SUNPHARMA.BO"
+    },
+    {
+      "name": "Tata Consultancy Services",
+      "ticker": "TCS.BO"
+    },
+    {
+      "name": "Tata Steel",
+      "ticker": "TATASTEEL.BO"
+    },
+    {
+      "name": "Tech Mahindra",
+      "ticker": "TECHM.BO"
+    },
+    {
+      "name": "Titan Company",
+      "ticker": "TITAN.BO"
+    },
+    {
+      "name": "Trent",
+      "ticker": "TRENT.BO"
+    },
+    {
+      "name": "UltraTech Cement",
+      "ticker": "ULTRACEMCO.BO"
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+[
+  {
+    "country": "Pakistan",
+    "label": "KSE 100",
+    "symbol": "WORLD:KSE100",
+    "group": "World",
+    "pakistan": true,
+    "url": "https://www.investify.pk/indices/KSE100/live"
+  },
+  {
+    "country": "South Korea",
+    "label": "KOSPI",
+    "ticker": "^KS11",
+    "symbol": "WORLD:KS11",
+    "group": "World",
+    "yahoo": true,
+    "url": "https://finance.yahoo.com/quote/%5EKS11/"
+  },
+  {
+    "country": "South Korea",
+    "label": "KOSDAQ",
+    "ticker": "^KQ11",
+    "symbol": "WORLD:KQ11",
+    "group": "World",
+    "yahoo": true,
+    "url": "https://finance.yahoo.com/quote/%5EKQ11/"
+  },
+  {
+    "country": "Japan",
+    "label": "Nikkei 225",
+    "ticker": "^N225",
+    "symbol": "WORLD:N225",
+    "group": "World",
+    "yahoo": true,
+    "url": "https://finance.yahoo.com/quote/%5EN225/"
+  },
+  {
+    "country": "UK",
+    "label": "FTSE 100",
+    "ticker": "^FTSE",
+    "symbol": "WORLD:FTSE",
+    "group": "World",
+    "yahoo": true,
+    "url": "https://finance.yahoo.com/quote/%5EFTSE/"
+  },
+  {
+    "country": "UK",
+    "label": "FTSE 250",
+    "ticker": "^FTMC",
+    "symbol": "WORLD:FTMC",
+    "group": "World",
+    "yahoo": true,
+    "url": "https://finance.yahoo.com/quote/%5EFTMC/"
+  },
+  {
+    "country": "China",
+    "label": "Shanghai Composite",
+    "ticker": "000001.SS",
+    "symbol": "WORLD:000001.SS",
+    "group": "World",
+    "yahoo": true,
+    "url": "https://finance.yahoo.com/quote/000001.SS/"
+  },
+  {
+    "country": "China",
+    "label": "Shenzhen Component",
+    "ticker": "399001.SZ",
+    "symbol": "WORLD:399001.SZ",
+    "group": "World",
+    "yahoo": true,
+    "url": "https://finance.yahoo.com/quote/399001.SZ/"
+  },
+  {
+    "country": "Hong Kong",
+    "label": "Hang Seng",
+    "ticker": "^HSI",
+    "symbol": "WORLD:HSI",
+    "group": "World",
+    "yahoo": true,
+    "url": "https://finance.yahoo.com/quote/%5EHSI/"
+  },
+  {
+    "country": "Taiwan",
+    "label": "TAIEX",
+    "ticker": "^TWII",
+    "symbol": "WORLD:TWII",
+    "group": "World",
+    "yahoo": true,
+    "url": "https://finance.yahoo.com/quote/%5ETWII/"
+  },
+  {
+    "country": "Singapore",
+    "label": "Straits Times",
+    "ticker": "^STI",
+    "symbol": "WORLD:STI",
+    "group": "World",
+    "yahoo": true,
+    "url": "https://finance.yahoo.com/quote/%5ESTI/"
+  },
+  {
+    "country": "Australia",
+    "label": "ASX 200",
+    "ticker": "^AXJO",
+    "symbol": "WORLD:AXJO",
+    "group": "World",
+    "yahoo": true,
+    "url": "https://finance.yahoo.com/quote/%5EAXJO/"
+  },
+  {
+    "country": "New Zealand",
+    "label": "NZX 50",
+    "ticker": "^NZ50",
+    "symbol": "WORLD:NZ50",
+    "group": "World",
+    "yahoo": true,
+    "url": "https://finance.yahoo.com/quote/%5ENZ50/"
+  },
+  {
+    "country": "Germany",
+    "label": "DAX",
+    "ticker": "^GDAXI",
+    "symbol": "WORLD:GDAXI",
+    "group": "World",
+    "yahoo": true,
+    "url": "https://finance.yahoo.com/quote/%5EGDAXI/"
+  },
+  {
+    "country": "France",
+    "label": "CAC 40",
+    "ticker": "^FCHI",
+    "symbol": "WORLD:FCHI",
+    "group": "World",
+    "yahoo": true,
+    "url": "https://finance.yahoo.com/quote/%5EFCHI/"
+  },
+  {
+    "country": "Netherlands",
+    "label": "AEX",
+    "ticker": "^AEX",
+    "symbol": "WORLD:AEX",
+    "group": "World",
+    "yahoo": true,
+    "url": "https://finance.yahoo.com/quote/%5EAEX/"
+  },
+  {
+    "country": "Switzerland",
+    "label": "SMI",
+    "ticker": "^SSMI",
+    "symbol": "WORLD:SSMI",
+    "group": "World",
+    "yahoo": true,
+    "url": "https://finance.yahoo.com/quote/%5ESSMI/"
+  },
+  {
+    "country": "Spain",
+    "label": "IBEX 35",
+    "ticker": "^IBEX",
+    "symbol": "WORLD:IBEX",
+    "group": "World",
+    "yahoo": true,
+    "url": "https://finance.yahoo.com/quote/%5EIBEX/"
+  },
+  {
+    "country": "Italy",
+    "label": "FTSE MIB",
+    "ticker": "FTSEMIB.MI",
+    "symbol": "WORLD:FTSEMIB.MI",
+    "group": "World",
+    "yahoo": true,
+    "url": "https://finance.yahoo.com/quote/FTSEMIB.MI/"
+  },
+  {
+    "country": "Canada",
+    "label": "S&P/TSX Composite",
+    "ticker": "^GSPTSE",
+    "symbol": "WORLD:GSPTSE",
+    "group": "World",
+    "yahoo": true,
+    "url": "https://finance.yahoo.com/quote/%5EGSPTSE/"
+  },
+  {
+    "country": "Brazil",
+    "label": "Bovespa",
+    "ticker": "^BVSP",
+    "symbol": "WORLD:BVSP",
+    "group": "World",
+    "yahoo": true,
+    "url": "https://finance.yahoo.com/quote/%5EBVSP/"
+  },
+  {
+    "country": "Mexico",
+    "label": "IPC",
+    "ticker": "^MXX",
+    "symbol": "WORLD:MXX",
+    "group": "World",
+    "yahoo": true,
+    "url": "https://finance.yahoo.com/quote/%5EMXX/"
+  },
+  {
+    "country": "Indonesia",
+    "label": "Jakarta Composite",
+    "ticker": "^JKSE",
+    "symbol": "WORLD:JKSE",
+    "group": "World",
+    "yahoo": true,
+    "url": "https://finance.yahoo.com/quote/%5EJKSE/"
+  },
+  {
+    "country": "Malaysia",
+    "label": "KLCI",
+    "ticker": "^KLSE",
+    "symbol": "WORLD:KLSE",
+    "group": "World",
+    "yahoo": true,
+    "url": "https://finance.yahoo.com/quote/%5EKLSE/"
+  },
+  {
+    "country": "Thailand",
+    "label": "SET",
+    "ticker": "^SET.BK",
+    "symbol": "WORLD:SET.BK",
+    "group": "World",
+    "yahoo": true,
+    "url": "https://finance.yahoo.com/quote/%5ESET.BK/"
+  },
+  {
+    "country": "Saudi Arabia",
+    "label": "Tadawul All Share",
+    "ticker": "^TASI.SR",
+    "symbol": "WORLD:TASI.SR",
+    "group": "World",
+    "yahoo": true,
+    "url": "https://finance.yahoo.com/quote/%5ETASI.SR/"
+  },
+  {
+    "country": "South Africa",
+    "label": "Top 40",
+    "ticker": "^J200.JO",
+    "symbol": "WORLD:J200.JO",
+    "group": "World",
+    "yahoo": true,
+    "url": "https://finance.yahoo.com/quote/%5EJ200.JO/"
+  },
+  {
+    "country": "Turkey",
+    "label": "BIST 100",
+    "ticker": "XU100.IS",
+    "symbol": "WORLD:XU100.IS",
+    "group": "World",
+    "yahoo": true,
+    "url": "https://finance.yahoo.com/quote/XU100.IS/"
+  }
+]
